@@ -19,18 +19,7 @@ It supports full CRUD operations and allows incrementing or decrementing an empl
 
 ## Project Structure
 
-com.codewithshabaz.employeeratingsystem
-├── controller
-│   └── EmployeeController.java
-├── model
-│   └── Employee.java
-├── repository
-│   └── EmployeeRepository.java
-├── service
-│   └── EmployeeService.java
-├── EmployeeRatingSystemApplication.java
-└── resources
-    └── application.properties
+![image](https://github.com/user-attachments/assets/eb143aed-ec78-4d71-a18b-577747186f78)
 
 ---
 
