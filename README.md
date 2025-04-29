@@ -19,7 +19,7 @@ It supports full CRUD operations and allows incrementing or decrementing an empl
 
 ## Project Structure
 
-![image](https://github.com/user-attachments/assets/eb143aed-ec78-4d71-a18b-577747186f78)
+![image](https://github.com/user-attachments/assets/908ddc2e-f1aa-42ae-9235-0bfdda47f87d)
 
 ---
 
