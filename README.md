@@ -3,6 +3,9 @@
 A simple RESTful Spring Boot application for managing employee details along with their performance scores (ratings).  
 It supports full CRUD operations and allows incrementing or decrementing an employee's score.
 
+**Live Swagger UI**:  
+[https://spring-empower.onrender.com/swagger-ui/index.html/](https://spring-empower.onrender.com/swagger-ui/index.html/)
+
 ---
 
 ##  Features
@@ -80,5 +83,12 @@ Defines the Employee entity with the following fields:
 - Handles HTTP request/response transformations.
 - Follows standard REST principles.
 
-```bash
-mvn spring-boot:run
+**Clone the repository**
+  ```bash
+   git clone https://github.com/mdshabazkhan/employee-rating-system.git
+   cd employee-rating-system
+  ```
+  ```bash
+  mvn spring-boot:run
+  ```
+
